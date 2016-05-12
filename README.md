@@ -15,6 +15,7 @@ GitHub: [yhlleo/SuperpixelRegionFill](https://github.com/yhlleo/SuperpixelRegion
 
  - OpenCV
  - CMake
+ - Visual Studio
 
 工程`demo`包括：
 
