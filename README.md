@@ -40,7 +40,7 @@ GitHub: [yhlleo/SuperpixelRegionFill](https://github.com/yhlleo/SuperpixelRegion
 种子填充算法使用递归的形式，对于小块的像素区域比较有效，但是由于编译器栈深度有限，填充区域过大的时候，会出现栈溢出的BUG，这里需要注意一下。
 
 
-##References
+## References
 
  - [SEEDS: Superpixels Extracted via Energy-Driven Sampling](http://www.mvdblive.org/seeds/)
  - [SEEDS Superpixels Wrapper for OpenCV](https://github.com/yhlleo/SEEDS-superpixels)
